@@ -1,0 +1,106 @@
+<newsscroll>
+<parameters>
+	<registration_code>trial</registration_code>
+	<domain_name>http://localhost/website/main.php#</domain_name>
+	<movie_width>400</movie_width>
+	<movie_height>500</movie_height>
+	<top_margin>8</top_margin>
+	<left_margin>8</left_margin>
+	<bottom_margin>8</bottom_margin>
+	<right_margin>8</right_margin>
+	<bgcolor_solidorgradient>0</bgcolor_solidorgradient>
+	<bgcolor_gradientangle>1</bgcolor_gradientangle>
+	<bgcolor>FFFFFF</bgcolor>
+	<bgcolor_gradient1>CDD7E5</bgcolor_gradient1>
+	<bgcolor_gradient2>B2C5E3</bgcolor_gradient2>
+	<background_transparency>0</background_transparency>
+	<background_image>bgimage.jpg</background_image>
+	<image_positionx>0</image_positionx>
+	<image_positiony>0</image_positiony>
+	<bgimage_exist>1</bgimage_exist>
+	<background_image_transparency>0</background_image_transparency>
+	<bgimage_scaletype>0</bgimage_scaletype>
+	<bgimage_scalewidth>100</bgimage_scalewidth>
+	<bgimage_scaleheight>100</bgimage_scaleheight>
+	<isthere_item_mouseover_background>1</isthere_item_mouseover_background>
+	<item_mouseover_bgpadding>8</item_mouseover_bgpadding>
+	<item_mouseover_bgroundradius>8</item_mouseover_bgroundradius>
+	<item_mouseover_borderthickness>2</item_mouseover_borderthickness>
+	<item_mouseover_bgtransparency>50</item_mouseover_bgtransparency>
+	<item_mouseover_bgcolor>CDD7E5</item_mouseover_bgcolor>
+	<item_mouseover_bordercolor>0E2945</item_mouseover_bordercolor>
+	<item_mouseover_bordertransparancy>30</item_mouseover_bordertransparancy>
+	<mouseover_action>0</mouseover_action>
+	<border_width>1</border_width>
+	<border_color>000066</border_color>
+	<font_color>10284E</font_color>
+	<titlefont_color>09295A</titlefont_color>
+	<mouseover_font_color>000000</mouseover_font_color>
+	<mouseover_titlefont_color>132C51</mouseover_titlefont_color>
+	<text_font>Arial</text_font>
+	<title_font>Arial</title_font>
+	<text_align>0</text_align>
+	<font_size>16</font_size>
+	<title_font_size>22</title_font_size>
+	<paragraph_space>10</paragraph_space>
+	<scroll_style>1</scroll_style>
+	<scroll_speed>4</scroll_speed>
+	<isthere_downbutton>0</isthere_downbutton>
+	<downbuttonnormal_transparency>75</downbuttonnormal_transparency>
+	<downbuttonmover_transparency>20</downbuttonmover_transparency>
+	<downbutton_positionx>50</downbutton_positionx>
+	<downbutton_positiony>180</downbutton_positiony>
+	<downbutton_halignorvaluex>1</downbutton_halignorvaluex>
+	<downbutton_horalign>1</downbutton_horalign>
+	<downbutton_name>downbutton1.png</downbutton_name>
+	<titlefont_bold>yes</titlefont_bold>
+	<titlefont_italic>no</titlefont_italic>
+	<font_bold>no</font_bold>
+	<font_italic>no</font_italic>
+	<title_underline>yes</title_underline>
+	<underline>no</underline>
+	<startblank>yes</startblank>
+	<space_between_title_and_text>10</space_between_title_and_text>
+	<pause_time>40</pause_time>
+	<nameofscroller>ns1</nameofscroller>
+	<scrollerfolder_name>News Center</scrollerfolder_name>
+</parameters>
+<content>
+	<subitem>
+		<title><h3>Ericsson partners with Plan India to launch Community based Digital Learning Centers for young women</h3></title>
+		<but_text>Ericsson in collaboration with Plan India today announced the launch of its community based ‘Digital Learning Centers’ program for young women living in urban slum clusters of Delhi and NCR.</but_text>
+		<but_link>https://www.ericsson.com/in/news/150911-ericsson-partners-with-plan-india-to-launch-community-based-digital-learning-centers-for-young-women_254740126_c?localOnly=true</but_link>
+		<but_target>_top</but_target>
+	</subitem>
+	<subitem>
+		<title><h3>Ericsson’s ‘Broadband for All’ Summit focuses on ICT as an enabler for ‘Smart Digital India’</h3></title>
+		<but_text>Ericsson (NASDAQ:ERIC) today organized the second edition of its ‘Broadband for All’ Summit, in partnership with the Embassy of Sweden and COAI .The Broadband for All Summit saw industry leaders and policy makers focus on ICT as an enabler for ’Smart Digital India’ and the enabling policies and the regulatory framework needed to realize this Vision.</but_text>
+		<but_link>https://www.ericsson.com/in/news/151202-ericssons-broadband-for-all-summit-focuses-on-ict-as-an-enabler-for-smart-digital-india_254740126_c?localOnly=true</but_link>
+		<but_target>_top</but_target>
+	</subitem>
+	<subitem>
+		<title><H3>Ericsson selected by Idea Cellular for 4G rollout and network transformation</H3></title>
+		<but_text>Ericsson (NASDAQ: ERIC) has been selected by Idea Cellular, the 3rd largest mobile services operator in India, with over 170 million subscribers, to deploy a 4G/LTE network and to transform its existing 2G and 3G networks.</but_text>
+		<but_link>https://www.ericsson.com/in/news/160217-ericsson-selected-by-idea-cellular-for-4g-rollout-and-network-transformation_254740127_c?localOnly=true</but_link>
+		<but_target>_top</but_target>
+	</subitem>
+	<subitem>
+		<title><h3>India to have 810 Million smartphone subscriptions by 2021: Ericsson Mobility Report</h3></title>
+		<but_text>Mobile broadband set to dramatically increase, with smartphone subscriptions and total mobile traffic expected to increase four-fold and fifteen-fold respectively from 2015 to 2021 – reaching 810 million smartphone subscriptions and mobile traffic of 4.5 ExaBytes (EB) per monthWCDMA/HSPA and LTE networks expected to gain momentum, subscriptions together to account for 65 percent of Indian subscriptions by 2021Total smartphone traffic to grow seventeen fold by 2021</but_text>
+		<but_link>https://www.ericsson.com/in/news/160607-india-to-have-810-million-smartphone-subscriptions-by-2021_254740127_c?localOnly=true</but_link>
+		<but_target>_top</but_target>
+	</subitem>
+	<subitem>
+		<title><h3>Bhutan Telecom selects Ericsson as BSS transformation partner</h3></title>
+		<but_text>Ericsson has signed a BSS transformation contract with Bhutan Telecom, wherein complete billing systems will be transformed into a convergent environment supporting mobile, fixed line and DSL broadband subscribers.</but_text>
+		<but_link>https://www.ericsson.com/in/news/160322-bhutan-telecom-selects-ericsson-as-bss-transformation-partner_254740127_c?localOnly=true</but_link>
+		<but_target>_top</but_target>
+	</subitem>
+	<subitem>
+		<title><h3>Ericsson and Ozone to provide Small Cell as a Service to Reliance Communications in India</h3></title>
+		<but_text>Reliance Communications has become the first mobile operator in India to join the Ozone Networks and Ericsson (NASDAQ: ERIC) Small Cell as a Service carrier-grade Wi-Fi network.</but_text>
+		<but_link>https://www.ericsson.com/in/news/160317-ericsson-and-ozone-to-provide-small-cell-as-a-service-to-reliance-communications-in-india_254740127_c?localOnly=true</but_link>
+		<but_target>_top</but_target>
+	</subitem>
+</content>
+</newsscroll>
